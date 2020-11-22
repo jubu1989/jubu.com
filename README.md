@@ -1,2 +1,2 @@
 # jubu.com
-Build your website in modern stratigy
+Build your website in modern strategy
